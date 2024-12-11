@@ -3,7 +3,7 @@
 <h2>👾 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Home Lab </b>
-  - [Building a Home Lab using VBox](link)
+  - [Building a Home Lab using VBox](lik)
 - <b>Azure Sentinel SIEM </b>
   - [Setting Up SIEM in Azure](link) <b><i>
 
