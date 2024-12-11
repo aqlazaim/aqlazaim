@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aqil Azaim! <br/> <a href="https://www.linkedin.com/in/aqil-azaim-ramlee/">Cybersecurity Professional</a>
+<h1>Hi, I'm Aqil Azaim! <br/> <a href="https://www.linkedin.com/in/aqil-azaim-ramlee/">Cybersecurity Analyst</a>
 
 <h2>👾 Cybersecurity Projects:</h2>
 
