@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity Home Lab (In Progress) </b>
   - [Building a Home Lab using VBox](lik)
-- <b>Azure Sentinel SIEM </b>
+- <b>Azure Sentinel SIEM (In Progress)</b>
   - [Setting Up SIEM in Azure](link) <b><i>
 
 <h2>📜 Certifications</h2>
